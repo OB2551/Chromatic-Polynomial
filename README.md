@@ -4,7 +4,7 @@
 
 Chromatic Polynomial Calculator Download (for windows):https://www.dropbox.com/s/7yppkswcastq6r6/Chromatic.exe?dl=0.<br>
 
-Video:https://www.dropbox.com/s/knm34t0riv7ic5s/Sequence%20%231.mp4?dl=0<br>
+Video:https://www.dropbox.com/s/oiw6rawbwbu1c0w/Chromatic%20Polynomial%20Demo.mp4?dl=0<br>
 
 A basic GUI that allows users to create a graph and compute the Chromatic Polynomial of a Graph of up to 10 vertices.<br>
 The Chromatic polynomial of a graph gives us the number of ways to colour the graph given k different colours.<br>
